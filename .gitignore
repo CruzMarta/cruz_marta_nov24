@@ -1,0 +1,4 @@
+// Ignorar ficheros puente de Photoshop
+*.xsd
+// Ignorar la carpeta docs
+doc/
