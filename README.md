@@ -12,3 +12,5 @@ despues he hecho un git add -A para subir al stage el resto de archivos y un git
 Despues he hecho un git push origin main para subir todos estos cambios a la rama main del repositorio remoto.
 
 Por ultimo, con git checkout -b MartaCruz he creado y me he ido a una nueva rama llamada MartaCruz, desde la cual estoy modificando este archivo de README.md
+
+Segunda modificacion del README por la rama MartaCruz, lo había puesto todo a la vez
